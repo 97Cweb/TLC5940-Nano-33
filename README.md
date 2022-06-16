@@ -1,5 +1,5 @@
 # TLC5940-Nano-33
-Arduino library for Arduino Nano 33. 
+Arduino library for Arduino Nano 33. Based originally off of Paul Stoffregen's library found at https://github.com/PaulStoffregen/Tlc5940
 
 Incomplete: to be used as reference only. It does work, but only in the specific case
 
